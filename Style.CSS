@@ -1,0 +1,17 @@
+/* week 1 task 1*/ 
+div {
+     
+   width: 500px;
+   padding: 10px 50%;
+   margin-bottom: 10px;
+
+}
+.assign-1-shape-1 {
+    background-color: rgb(154, 39, 150);
+}
+.assign-1-shape-2{
+    background-color: rgb(154 39 150 /80%);
+}
+.assign-1-shape-3 {
+    background-color: hsl(309, 100%, 80%) ;
+}

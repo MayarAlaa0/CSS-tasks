@@ -1,0 +1,26 @@
+.child .title {
+    color: red;
+}
+div .title {
+    color: blue;
+}
+/*
+.parent p {
+    color: green;
+}
+.title {
+    color: green;
+}*/
+.parent p,
+.title {
+    color: green;
+}
+.task2 p {
+    background-color: rgb(139, 12, 12);
+    margin: 10px;
+    width: fit-content;
+    max-width: 400px ;
+    padding: 10px;
+    max-height: 30px;
+    overflow-y: hidden;
+}
